@@ -1,0 +1,34 @@
+
+--- START ---
+time_ms=11387, event=BLOCKED, distance=472, count=0
+time_ms=12411, event=PASS, distance=NO_TARGET, count=1
+time_ms=18132, event=BLOCKED, distance=429, count=1
+time_ms=19156, event=PASS, distance=NO_TARGET, count=2
+time_ms=26117, event=BLOCKED, distance=508, count=2
+time_ms=27141, event=PASS, distance=NO_TARGET, count=3
+time_ms=37414, event=BLOCKED, distance=325, count=3
+time_ms=38213, event=PASS, distance=NO_TARGET, count=4
+time_ms=50612, event=BLOCKED, distance=884, count=4
+time_ms=51411, event=PASS, distance=NO_TARGET, count=5
+time_ms=58438, event=BLOCKED, distance=349, count=5
+time_ms=59463, event=PASS, distance=NO_TARGET, count=6
+time_ms=65763, event=BLOCKED, distance=583, count=6
+time_ms=67484, event=PASS, distance=NO_TARGET, count=7
+time_ms=71097, event=BLOCKED, distance=372, count=7
+time_ms=72469, event=PASS, distance=NO_TARGET, count=8
+time_ms=77913, event=BLOCKED, distance=195, count=8
+time_ms=78937, event=PASS, distance=NO_TARGET, count=9
+
+--- START ---
+time_ms=12522, event=BLOCKED, distance=171, count=0
+time_ms=14188, event=PASS, distance=1228, count=1
+time_ms=16544, event=BLOCKED, distance=132, count=1
+time_ms=17984, event=PASS, distance=1223, count=2
+time_ms=20337, event=BLOCKED, distance=135, count=2
+time_ms=22058, event=PASS, distance=NO_TARGET, count=3
+time_ms=24413, event=BLOCKED, distance=148, count=3
+time_ms=25786, event=PASS, distance=NO_TARGET, count=4
+time_ms=28209, event=BLOCKED, distance=92, count=4
+time_ms=29008, event=PASS, distance=1223, count=5
+time_ms=31084, event=BLOCKED, distance=570, count=5
+time_ms=32682, event=PASS, distance=NO_TARGET, count=6

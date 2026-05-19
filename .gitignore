@@ -1,0 +1,22 @@
+# Build folders
+Debug/
+Release/
+
+# STM32 build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+
+# IDE/system
+.metadata/
+.settings/
+RemoteSystemsTempFiles/
+
+.DS_Store
+Thumbs.db
